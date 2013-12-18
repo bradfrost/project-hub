@@ -1,4 +1,4 @@
-Project Timeline
+Project Hub
 ================
 
 Read more about [project hubs on 24 Ways.](http://24ways.org/2013/project-hubs/)
