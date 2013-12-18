@@ -14,3 +14,7 @@ The benefits of using a project hub:
 - Provides an archive for project artifacts
 - Keep clients and team members up to speed with design progress
 - Lives at a URL that doesn't change
+
+## Resources
+- [Overview of project hubs on 24 Ways.](http://24ways.org/2013/project-hubs/)
+- [Jekyll version of project hubs](https://github.com/himedlooff/project-timeline)
