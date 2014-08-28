@@ -20,3 +20,4 @@ The benefits of using a project hub:
 - [Jekyll version of project hubs](https://github.com/himedlooff/project-timeline)
 - [Harp version of project hubs](https://github.com/jorgepedret/harp-project-hub)
 - [Node version of a project hub](https://github.com/adorableio/projecthub)
+- [PHP version of a project hub](https://github.com/tzi/ProjectHub)
