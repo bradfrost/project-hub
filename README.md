@@ -21,3 +21,4 @@ The benefits of using a project hub:
 - [Harp version of project hubs](https://github.com/jorgepedret/harp-project-hub)
 - [Node version of a project hub](https://github.com/adorableio/projecthub)
 - [PHP version of a project hub](https://github.com/tzi/ProjectHub)
+- [GO (hugo) version of a project hub](https://github.com/vjeantet/hugo-theme-projecthub)
